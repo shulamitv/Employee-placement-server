@@ -1,0 +1,30 @@
+D:\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.csproj.AssemblyReference.cache
+D:\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.AssemblyInfoInputs.cache
+D:\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.AssemblyInfo.cs
+D:\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.csproj.CoreCompileInputs.cache
+D:\Solid.Net\Solid.Servies\bin\Debug\net6.0\Solid.Servies.deps.json
+D:\Solid.Net\Solid.Servies\bin\Debug\net6.0\Solid.Servies.dll
+D:\Solid.Net\Solid.Servies\bin\Debug\net6.0\Solid.Servies.pdb
+D:\Solid.Net\Solid.Servies\bin\Debug\net6.0\Solid.Core.dll
+D:\Solid.Net\Solid.Servies\bin\Debug\net6.0\Solid.Core.pdb
+D:\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.csproj.CopyComplete
+D:\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.dll
+D:\Solid.Net\Solid.Servies\obj\Debug\net6.0\refint\Solid.Servies.dll
+D:\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.pdb
+D:\Solid.Net\Solid.Servies\obj\Debug\net6.0\ref\Solid.Servies.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Servies\bin\Debug\net6.0\Solid.Servies.deps.json
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Servies\bin\Debug\net6.0\Solid.Servies.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Servies\bin\Debug\net6.0\Solid.Servies.pdb
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Servies\bin\Debug\net6.0\Solid.Core.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Servies\bin\Debug\net6.0\Solid.Core.pdb
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.csproj.AssemblyReference.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.AssemblyInfoInputs.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.AssemblyInfo.cs
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.csproj.CopyComplete
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Servies\obj\Debug\net6.0\refint\Solid.Servies.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Servies\obj\Debug\net6.0\Solid.Servies.pdb
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Servies\obj\Debug\net6.0\ref\Solid.Servies.dll

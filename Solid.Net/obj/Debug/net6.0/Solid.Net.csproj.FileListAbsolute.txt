@@ -1,0 +1,140 @@
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.csproj.AssemblyReference.cache
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.AssemblyInfoInputs.cache
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.AssemblyInfo.cs
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.csproj.CoreCompileInputs.cache
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.MvcApplicationPartsAssemblyInfo.cs
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.MvcApplicationPartsAssemblyInfo.cache
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\appsettings.Development.json
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\appsettings.json
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Net.exe
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Net.deps.json
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Net.runtimeconfig.json
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Net.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Net.pdb
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Core.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Data.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Servies.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Core.pdb
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Data.pdb
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Servies.pdb
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\staticwebassets.build.json
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\staticwebassets.development.json
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\scopedcss\bundle\Solid.Net.styles.css
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.csproj.CopyComplete
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.dll
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\refint\Solid.Net.dll
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.pdb
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.genruntimeconfig.cache
+D:\Solid.Net\Solid.Net\obj\Debug\net6.0\ref\Solid.Net.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Humanizer.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Solid.Net\Solid.Net\bin\Debug\net6.0\AutoMapper.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\appsettings.Development.json
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\appsettings.json
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Net.exe
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Net.deps.json
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Net.runtimeconfig.json
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Net.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Net.pdb
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\AutoMapper.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Humanizer.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Core.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Data.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Servies.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Core.pdb
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Data.pdb
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\bin\Debug\net6.0\Solid.Servies.pdb
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.csproj.AssemblyReference.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.AssemblyInfoInputs.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.AssemblyInfo.cs
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.MvcApplicationPartsAssemblyInfo.cs
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.MvcApplicationPartsAssemblyInfo.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\staticwebassets.build.json
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\staticwebassets.development.json
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\scopedcss\bundle\Solid.Net.styles.css
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.csproj.CopyComplete
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\refint\Solid.Net.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.pdb
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\Solid.Net.genruntimeconfig.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Net\obj\Debug\net6.0\ref\Solid.Net.dll

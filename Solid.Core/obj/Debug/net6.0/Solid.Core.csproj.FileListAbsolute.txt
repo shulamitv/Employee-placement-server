@@ -1,0 +1,24 @@
+D:\Solid.Net\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+D:\Solid.Net\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+D:\Solid.Net\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+D:\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+D:\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+D:\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+D:\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+D:\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+D:\Solid.Net\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+D:\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+D:\Solid.Net\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Core\bin\Debug\net6.0\Solid.Core.deps.json
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Core\bin\Debug\net6.0\Solid.Core.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Core\bin\Debug\net6.0\Solid.Core.pdb
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.AssemblyReference.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfoInputs.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.AssemblyInfo.cs
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Core\obj\Debug\net6.0\refint\Solid.Core.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Core\obj\Debug\net6.0\Solid.Core.pdb
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Core\obj\Debug\net6.0\ref\Solid.Core.dll

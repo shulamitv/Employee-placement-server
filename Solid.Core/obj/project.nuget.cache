@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WPmSPloChLccIu47BpUlGSxdjiYYVXUC1ULokCsIF6k7IU/Dt1iJMKPhk9WQjk+n5ncvDqmc+sQVKxGDWBEyjg==",
+  "success": true,
+  "projectFilePath": "D:\\שיעורי בית\\גיבוי דוטנט 2\\Solid.Net\\Solid.Core\\Solid.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\automapper\\13.0.0\\automapper.13.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

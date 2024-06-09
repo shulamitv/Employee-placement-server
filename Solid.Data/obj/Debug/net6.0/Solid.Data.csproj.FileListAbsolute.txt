@@ -1,0 +1,34 @@
+D:\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+D:\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+D:\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+D:\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+D:\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+D:\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+D:\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+D:\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+D:\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+D:\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+D:\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+D:\Solid.Net\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+D:\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+D:\Solid.Net\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
+D:\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+D:\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.deps.json
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.runtimeconfig.json
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Data.pdb
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Core.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\bin\Debug\net6.0\Solid.Core.pdb
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.AssemblyReference.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfoInputs.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.AssemblyInfo.cs
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CoreCompileInputs.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.csproj.CopyComplete
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\obj\Debug\net6.0\refint\Solid.Data.dll
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.pdb
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\obj\Debug\net6.0\Solid.Data.genruntimeconfig.cache
+D:\שיעורי בית\גיבוי דוטנט 2\Solid.Net\Solid.Data\obj\Debug\net6.0\ref\Solid.Data.dll
